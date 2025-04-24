@@ -45,3 +45,5 @@
 以安全模式启动：如果更新软件后问题依旧存在，可以以安全模式启动 Mac，打开 Safari 浏览器，打开想要使用的扩展，然后重新启动 Mac。
 
 ## 工具截图
+![image](https://github.com/user-attachments/assets/2b089108-02ea-4785-8034-74c3ac56f920)
+![image](https://github.com/user-attachments/assets/a5b2be62-5cf5-4919-b276-c33bcb6d75b8)
