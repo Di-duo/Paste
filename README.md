@@ -51,5 +51,6 @@
 ```
 
 ## 工具截图
-![image](https://github.com/user-attachments/assets/2b089108-02ea-4785-8034-74c3ac56f920)
+![image](https://github.com/user-attachments/assets/7da0983f-ac78-48d1-b06b-57234a296dc5)
+
 ![image](https://github.com/user-attachments/assets/a5b2be62-5cf5-4919-b276-c33bcb6d75b8)
